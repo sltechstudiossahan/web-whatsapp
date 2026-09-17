@@ -1,0 +1,12 @@
+{
+  "name": "ChatPro",
+  "description": "Premium dark-themed web messenger platform with multimedia messaging, voice and video calling, identity verification, privacy locks, AI features, and admin control center.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
